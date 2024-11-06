@@ -1,0 +1,30 @@
+#root {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+  }
+  
+h1{
+  margin-bottom: 40px;
+}
+
+.Tarea{
+ padding-right: 10px;
+ margin-bottom: 10px;
+}
+.borrar{
+  margin-left: 270px;
+  color: whitesmoke;
+  background-color:#4e5d6c;
+  
+}
+  
+  div#root{
+    width: 70vw;
+    height: 80vh;
+  }
+  
+  input.form-control,button.btn{
+    border-radius: 50vh;
+  }
